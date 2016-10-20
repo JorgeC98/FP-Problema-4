@@ -6,7 +6,7 @@
 package problema4;
 import java.util.*;
 /**
- *
+ *Programa para convertir de grados celcius a fharenheit
  * @author JorgeRicardo
  */
 public class Problema4 {
